@@ -29,6 +29,6 @@ int main(void)
 
     for (auto it = m.begin(); it != m.end(); ++it) cout << it->second << endl;
 
-    system("pause");
+    //system("pause");
     return 0;
 }
